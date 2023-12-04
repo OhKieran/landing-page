@@ -29,13 +29,15 @@
 
 .logo {
     margin-right: auto;
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 .hero-container {
     display: flex;
     margin: 50px auto;
     width: 75%;
-    gap: 30px;
+    gap: 50px;
     justify-content: center;
     align-items: center;
 }
@@ -48,4 +50,23 @@
 .hero-content {
     margin-top: 7px;
     margin-bottom: 7px;
+}
+
+.hero-title {
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+.hero-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-button {
+    background-color: #3882F6;
+    border: 0;
+    padding: 10px;
+    border-radius: 7px;
+    color: #f9faf8;
+    font-weight: bold;
 }
