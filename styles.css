@@ -70,3 +70,8 @@
     color: #f9faf8;
     font-weight: bold;
 }
+
+.placeholder-image {
+    height: 75%;
+    width: 75%;
+}
