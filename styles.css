@@ -1,12 +1,20 @@
-html {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+.first-block {
+    background-color: #1f2937;
+    color: #f9faf8;
+    margin: 0;
+    padding: 0;
+    height: 500px;
+}
+
 .header-container {
-    margin: 20px auto;
-    padding: 10px;
+    margin: 0px auto;
+    padding: 25px 10px;
     height: 25px;
     width: 75%;
     display: flex;
@@ -17,6 +25,8 @@ html {
     align-items: center;
     gap: 30px;
 }
+
+
 
 .logo {
     margin-right: auto;
