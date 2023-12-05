@@ -168,5 +168,11 @@
     margin: 0;
     padding: 0;
     height: auto;
-    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    padding: 20px;
 }
