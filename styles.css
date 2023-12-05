@@ -27,6 +27,15 @@
     gap: 30px;
 }
 
+.header-item a:link {
+    color: #f9faf8;
+    text-decoration: none;
+}
+.header-item a:visited {
+    color: #f9faf8;
+    text-decoration: none;
+}
+
 .logo {
     margin-right: auto;
     font-size: 24px;
