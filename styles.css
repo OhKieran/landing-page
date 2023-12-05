@@ -136,3 +136,37 @@
     color: #1f2937;
 }
 
+.forth-block {
+    background-color: #f9faf8;
+    color: #1f2937;
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
+
+.call-action-container{
+    margin: 50px auto;
+    padding: 20px;
+    width: 75%;
+    height: auto;
+    gap: 180px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #3882F6;
+    color: #f9faf8;
+    border-radius: 10px;
+}
+
+.button-signup {
+    border: 3px solid #f9faf8;
+}
+
+.fifth-block {
+    background-color: #1f2937;
+    color: #f9faf8;
+    margin: 0;
+    padding: 0;
+    height: auto;
+    padding-bottom: 50px;
+}
